@@ -1,0 +1,79 @@
+body{
+    background-image:url("https://uploads-ssl.webflow.com/5f6112d8c0f5912e8bf52737/5f94bed8eefd7d4300939b61_NetflixMyListExample3.gif");
+    padding-left: 50%;
+    background-size:cover;
+    background-image: linear-gradient(to left,#000);
+}
+.stran{
+    height:500px;
+    width:600px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.card1{
+    background-color:#000;
+    color:#fff;
+}
+.head{
+    font-family: 'Times New Roman';
+    font-size:30px;
+    font-weight: bold;
+    padding-left: 50px;
+}
+.para{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 50px;
+    font-size: 15px;
+}
+.stars{
+    color:rgb(164, 44, 44);
+    font-style: italic;
+    font-size:17px;
+}
+.para1{
+    color: rgb(109, 109, 104);
+    padding-left: 50px;
+}
+.head2{
+    color: #fff;
+    font-family: 'Times New Roman';
+    padding-left: 50px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.season{
+    color: #fff;
+    background-color: #db0001;
+    padding: 10px 15px ;
+    text-align: center;
+    border-radius:5px;
+    font-size:15px;
+    margin-left: 50px;
+    margin-right: 15px;
+    margin-bottom: 20px;
+
+}
+.season:hover{
+    transform: scale(1.2);
+    outline: red solid 2px;
+}
+.play1{
+    font-size: 15px;
+    padding:10px;
+    color: #000;
+    border-radius:25px;
+    width: 500px;
+    text-align: center;
+    font-family: 'Times New Roman';
+    text-decoration: none;
+
+}
+.play{
+    padding-left: 50px;
+    margin-bottom: 10px;
+}
+.fa-solid{
+    margin-left: 5px;
+    font-size: 15px;
+    color: rgb(35, 67, 185);
+}

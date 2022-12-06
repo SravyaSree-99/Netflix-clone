@@ -1,0 +1,93 @@
+.containersin{
+    height:100vh;
+    width: 100vw;
+    background-image: url("https://help.nflxext.com/0af6ce3e-b27a-4722-a5f0-e32af4df3045_what_is_netflix_5_en.png");
+    background-size:cover;
+
+}
+.signup{
+    background: linear-gradient(45deg,#db0001,rgb(174, 11, 33),rgb(69, 24, 24),black);
+    color: rgb(10, 14, 18);
+    font-family: 'Times New Roman';
+    font-weight: bold;
+
+    font-size: 25px;
+    border-radius:15px;
+    border:0;
+    width:150px;
+    height:60px;
+    border-width: 1px;
+    border-style: solid;
+    outline:#db0001;
+    padding-top: 13px;
+    padding-bottom:13px;
+    margin-right: 400px;
+    margin-top: 380px;
+    text-align:center;
+    
+}
+.signin:hover{
+    background:linear-gradient(45deg,white,rgb(38, 38, 78));
+    color: #db0001;
+    
+}
+.signup:hover{
+    background:linear-gradient(45deg,white,rgb(38, 38, 78));
+    color: #db0001;
+    
+}
+
+.fa-solid fa-user-plus{
+    font-size: 20px;
+    color: black;
+    padding-left:5px;
+}
+.signin{
+    background: linear-gradient(45deg,#db0001,rgb(174, 11, 33),rgb(69, 24, 24),black);
+    color: rgb(10, 14, 18);
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    font-size: 25px;
+    border-radius:15px;
+    border:0;
+    width:150px;
+    height:60px;
+    border-width: 1px;
+    border-style: solid;
+    outline:#db0001;
+    padding-top: 13px;
+    padding-bottom:13px;
+    text-align:center;
+    margin-top:380px;
+    margin-right: 300px;
+    margin-left: 150px;
+}
+.fa-solid fa-right-to-bracket{
+    font-size: 20px;
+    color: black;
+    margin-left:15px;
+
+}
+.para{
+    color: aliceblue;
+    font-family: Times, serif;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 5px;
+    margin-top: 50px;
+    margin-right:10px;
+    margin-left: 50px;
+}
+.para1{
+    color: rgb(225, 232, 239);
+    font-family: Times, serif;
+    font-size: 15px;
+    padding-top: 10px;
+    padding-left: 35px;
+
+    
+}
+.pop{
+    color: black;
+}

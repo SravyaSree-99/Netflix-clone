@@ -1,0 +1,46 @@
+.tust{
+    background: linear-gradient(30deg,black,rgb(68, 27, 27),brown,red);
+    background-size: cover;
+    height: 80vh;
+}
+.form-group{
+    margin-left:50px;
+    margin-right: 50px;
+    color:red;
+
+}
+.containersin{
+    margin-top: 300px;
+    background-color: rgb(13, 11, 11);
+    margin-left:300px;
+    margin-right:300px;
+    padding: 5px;
+    border-radius:25px;
+}
+.head1{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    background: linear-gradient(30deg,rgb(184, 9, 73),rgb(22, 15, 2));
+    padding:0px 30px;
+    color: black;
+    border-radius: 5px;
+    margin-left:350px;
+    margin-right:300px;
+    margin-bottom: 10px;
+
+}
+.para1{
+    font-size:20px;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    color:rgb(109, 109, 104);
+    margin-left:250px;
+    margin-right:280px;
+
+}
+.spind{
+    color:whitesmoke;
+    font-size:25px;
+}
